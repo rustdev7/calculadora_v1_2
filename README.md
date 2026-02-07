@@ -14,9 +14,9 @@ CALCULADORA BÁSICA EN EL FRAMEWORK FLUTTER
 
 6 - Limpia el proyecto: En la terminal, dentro de la carpeta del proyecto, ejecuta: flutter clean
 
-7 - Obtén las dependencias: En la terminal, ejecuta el comando: flutter pub get
+7 - Obtén las dependencias: En la terminal, dentro de la carpeta del proyecto, ejecuta el comando: flutter pub get
 
-8 - Inicia la aplicación: En la terminal, ejecuta: flutter run
+8 - Inicia la aplicación: En la terminal, dentro de la carpeta del proyecto, ejecuta: flutter run
 
 9 - Elige el dispositivo: Selecciona la opción 2 (Chrome).
 
