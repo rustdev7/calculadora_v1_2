@@ -10,7 +10,7 @@ CALCULADORA BÁSICA EN EL FRAMEWORK FLUTTER
 
 4 - Reemplaza el archivo pubspec.yaml: Borra el archivo pubspec.yaml que se encuentra en la raíz del proyecto y agrega el archivo del mismo nombre que está en la carpeta calcu dentro del repositorio.
 
-5 - Nota: En la primera línea del nuevo archivo, cambia el nombre por el mismo nombre que le pusiste a tu proyecto name: nobre_del_proyecto (Hay que dejar un espacio despues de los dos puntos) 
+5 - Nota: En la primera línea del nuevo archivo, cambia el nombre por el mismo nombre que le pusiste a tu proyecto name: nombre_del_proyecto (Hay que dejar un espacio despues de los dos puntos) 
 
 6 - Limpia el proyecto: En la terminal, dentro de la carpeta del proyecto, ejecuta: flutter clean
 
